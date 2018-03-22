@@ -1,0 +1,5 @@
+Leer sobre los algoritmos de optimizacion
+	- Conjugate gradient
+	- BFGS
+	- L-BFGS
+En Matlab/Octave están implementados en "fminunc"
